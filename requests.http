@@ -2,3 +2,6 @@ GET http://localhost:3000/fortune
 
 ###
 GET http://localhost:3000/lottery
+
+###
+GET http://localhost:3000/visits
